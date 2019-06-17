@@ -11,3 +11,8 @@ Extensions:
 - One Dark Pro
 - Prettier
 - vscode-icons
+
+
+### Providers
+- [mlab](https://mlab.com/)
+- [AWS](https://aws.amazon.com/console/)
